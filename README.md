@@ -11,6 +11,13 @@ Overview of the Project
 
 Project: Student Grade Tracker 
 
+![image](https://github.com/user-attachments/assets/fafbc3d0-6cdd-4237-ba13-dcfd66316c79)
+
+![image](https://github.com/user-attachments/assets/6ec3a9ef-f83f-4626-99fb-1d4d30917ac4)
+
+![image](https://github.com/user-attachments/assets/a3f87b2f-1a7c-4ef4-b88d-5334762fadff)
+
+
 Objective : 
 The primary objective of the CLI Student Grade Tracker is to efficiently manage and analyze student performance data within a command-line interface without utilizing a database. It aims to:
 •	Store grade information: Maintain student and grade data in-memory.
